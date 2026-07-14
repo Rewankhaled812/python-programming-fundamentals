@@ -1,0 +1,54 @@
+# Assignment 02 – Python Programming Fundamentals
+
+## Overview
+
+This assignment focuses on strengthening Python programming fundamentals through functions, data structures, object-oriented programming (OOP), and problem-solving exercises.
+
+## Topics Covered
+
+- Functions
+- Parameters and Return Values
+- Mathematical Operations
+- Lists
+- Tuples
+- Dictionaries
+- Searching Algorithms
+- Prime Number Checking
+- Object-Oriented Programming (Classes & Objects)
+- Encapsulation (Getters & Setters)
+
+## Exercises
+
+1. Implement a custom `pow()` function.
+2. Calculate the area of different shapes.
+3. Find the sum of all numbers in a list.
+4. Concatenate two tuples and find the maximum and minimum values.
+5. Count numeric elements in a tuple if its length is greater than five.
+6. Find the index of a list element without using the built-in `index()` method.
+7. Check whether a number is prime.
+8. Build a **Restaurant Management System** using classes, dictionaries, and lists.
+9. Build a **Bike Rental System** using object-oriented programming principles.
+
+## Learning Outcomes
+
+By completing this assignment, I practiced:
+
+- Writing reusable Python functions.
+- Working with Python collections (lists, tuples, and dictionaries).
+- Implementing conditional logic and loops.
+- Designing classes and objects.
+- Applying encapsulation using getters and setters.
+- Building small console-based applications using OOP.
+
+## Technologies
+
+- Python 3
+- Jupyter Notebook
+
+## File
+
+- `Assignment_02.ipynb` — Contains solutions for all assignment problems.
+
+---
+
+*This assignment was completed as part of my Python Programming Fundamentals learning journey.*
